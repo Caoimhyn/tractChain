@@ -1,0 +1,9 @@
+Package: tractChain
+Title: Demonstrateur Blockchain
+Version: 0.0.0.9000
+Authors@R: person("Kevin", "Potard", email = "kevin.potard@hotmail.fr", role = c("aut", "cre"))
+Description: Demonstrateur de l'utilité du blockchain en dehors du monde la finance.
+Depends: R (>= 3.5)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
